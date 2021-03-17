@@ -1,5 +1,6 @@
 
  Who created Git?
+ Git was first created by Linus Torvalds.
 
  What is the Unix epoch?
 
